@@ -1,5 +1,6 @@
 
-## Writing a simple echo client/server application
+# Objectives
+ -Writing a simple echo client/server application
 
 ### Server
 ![Untitled](https://user-images.githubusercontent.com/47218652/60994928-185f8800-a317-11e9-968b-f4ce1f95b789.png)
