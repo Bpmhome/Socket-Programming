@@ -8,8 +8,8 @@
 
 **In this section, you will learn about:**
 * Writing a SNTP client
-![Untitled](https://user-images.githubusercontent.com/47218652/60994825-dd5d5480-a316-11e9-8892-4e3a3af9bcdb.png)
 
+![Untitled](https://user-images.githubusercontent.com/47218652/60994825-dd5d5480-a316-11e9-8892-4e3a3af9bcdb.png)
 
 ## Example
 
